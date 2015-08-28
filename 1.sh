@@ -15,4 +15,4 @@ elif a<b:
 else:
     print "a>b"
 
-print(fun(5,6))
+print  >> 123.log  fun(5,6)
